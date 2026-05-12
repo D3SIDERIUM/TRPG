@@ -70,7 +70,15 @@
 /desc [——하고 검붉은 점액이 터집니다. 그와 함께 밤은 옆으로 쓰러집니다](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: normal ; font-size: 13px; display:block;)
 
 실패▶︎
-/desc [탄환은 밤의 옆구리를 빗겨나갑니다. 다행히 그것은 총포 소리에 놀라 바닥으로 자빠진 데릭의 머리를 짓누르지 못했습니다.](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: normal ; font-size: 13px; display:block;)[ㅤ](#" style=" color: #636250 !important;)[하지만 그것의 고개는 천천히 돌려 당신을 바라봅니다. 그놈은 천천히 이빨을 드러내며 당신쪽으로 걸어옵니다.](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: normal ; font-size: 13px; display:block;)[ㅤ](#" style=" color: #636250 !important;)[*‘사냥하려 나서는 자는 사냥 당할 각오를 해야 한다.’*](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: normal ; font-size: 13px; display:block;)[ㅤ](#" style=" color: #636250 !important;)[처음 총을 들었을 때 누군가가 했던 말이 떠오릅니다.](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: normal ; font-size: 13px; display:block;)[ㅤ](#" style=" color: #636250 !important;)[밤은 언제든 당신을 사냥할 수 있습니다.](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: normal ; font-size: 13px; display:block;)[당신이 밤을 사냥할 수 있듯이.](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: normal ; font-size: 13px; display:block;)
+/desc [탄환은 밤의 옆구리를 빗겨나갑니다. 다행히 그것은 총포 소리에 놀라 바닥으로 자빠진 데릭의 머리를 짓누르지 못했습니다.](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: normal ; font-size: 13px; display:block;)
+
+/desc [하지만 그것의 고개는 천천히 돌려 당신을 바라봅니다. 그놈은 천천히 이빨을 드러내며 당신쪽으로 걸어옵니다.](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: normal ; font-size: 13px; display:block;)
+
+/desc [*‘사냥하려 나서는 자는 사냥 당할 각오를 해야 한다.’*](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: normal ; font-size: 13px; display:block;)
+
+/desc [처음 총을 들었을 때 누군가가 했던 말이 떠오릅니다.](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: normal ; font-size: 13px; display:block;)
+
+/desc [밤은 언제든 당신을 사냥할 수 있습니다.](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: normal ; font-size: 13px; display:block;)[당신이 밤을 사냥할 수 있듯이.](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: normal ; font-size: 13px; display:block;)
 
 
 
@@ -91,8 +99,6 @@
 /desc [그러니 믿어지시나요? ](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: normal ; font-size: 13px; display:block;)[ㅤ](#" style=" color: #636250 !important;)[당신이 짐승의 배를 가르고 죽일 수 있듯, 저것도 당신의 배를 가르고 살점을 뜯어먹을 수 있다는 게.](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: normal ; font-size: 13px; display:block;)[ㅤ](#" style=" color: #636250 !important;)[당신은 언제든 손쉽게 사냥당할 수 있는 존재입니다.](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: normal ; font-size: 13px; display:block;)
 
 
-
-
 /desc [탐사자, *이성*  판정. (0/1)](#" style="text-decoration:none; color: #d3d2bd; background-color: #151515; font-size: 13px; text-align:center; display:block; line-height:1.3; padding:5px 25px 5px 25px; margin: -3% -10% -2% -10%;)
 
 
@@ -101,8 +107,120 @@
 
 /desc [탕!](#" style="text-decoration:none; color: #d3d2bd; background-color: #151515; font-size: 13px; text-align:center; display:block; line-height:1.3; padding:5px 25px 5px 25px; margin: -3% -10% -2% -10%;)
 
-/desc [총을 쏘는 소리가 들립니다. ](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: normal ; font-size: 13px; display:block;)[ㅤ](#" style=" color: #636250 !important;) [밤은 당신에게 이르기도 전에 앞으로 고꾸라집니다. 총을 쏜 자는 다름이 아니라——](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: normal ; font-size: 13px; display:block;)
+/desc [총을 쏘는 소리가 들립니다. ](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: normal ; font-size: 13px; display:block;)[ㅤ](#" style=" color: #636250 !important;)[밤은 당신에게 이르기도 전에 앞으로 고꾸라집니다. 총을 쏜 자는 다름이 아니라——](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: normal ; font-size: 13px; display:block;)
 
 /desc [그 자빠져있던 데릭입니다.](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: normal ; font-size: 13px; display:block;)
 
 실패▶︎
+/desc [그러나 당신은 어디에서도 밤을 찾을 수 없습니다. ](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: normal ; font-size: 13px; display:block;)
+
+/desc [ㅤ](#" style=" color: #636250 !important;)[아니, 어둠이 깔려있는 지천에 밤이 있는 것 같습니다.](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: normal ; font-size: 13px; display:block;)
+
+
+/desc [ㅤ](#" style=" color: #636250 !important;)[아니, 아니, 그것도 아니야, 그들이 숨어있는 어디에도 밤은 없습니다.](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: normal ; font-size: 13px; display:block;)
+
+/desc [ㅤ](#" style=" color: #636250 !important;)[그러나 당신이 눈을 한 번 깜빡이면, 수도 없이 많은 눈이 당신을 노려보고 있습니다.](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: normal ; font-size: 13px; display:block;)
+
+/desc [ㅤ](#" style=" color: #636250 !important;)[짐승의 울음 소리가 들립니다.](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: bold; font-size: 13px; display:block;)
+
+/desc [ㅤ](#" style=" color: #636250 !important;)[마치 사냥감을 보며 입맛을 다시듯.](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: bold; font-size: 13px; display:block;)
+
+
+/desc [탐사자, *이성*  판정. (0/1)](#" style="text-decoration:none; color: #d3d2bd; background-color: #151515; font-size: 13px; text-align:center; display:block; line-height:1.3; padding:5px 25px 5px 25px; margin: -3% -10% -2% -10%;)
+
+
+
+
+/desc [당신이 정신 차리지 못하는 사이에, 데릭은 괴성을 지르며 뒤로 기어가고, 다른 놈들은 황급히 총을 장전합니다.](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: normal ; font-size: 13px; display:block;)
+
+/desc [ㅤ](#" style=" color: #636250 !important;)[밤은 자빠진 데릭을 향해 뛰어오릅니다. 그러나——](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: bold; font-size: 13px; display:block;)
+
+/desc [탕!](#" style=" color: #ff0000; text-decoration:none; text-align: left; font-style:normal; font-weight: bold ; font-size: 13px;)
+
+/desc [잘못 발사된 탄환.](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: normal ; font-size: 13px; display:block;)
+
+/desc [아니, 의도치 않았으나 정확히 밤의 폐부를 가로지른 탄환. ](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: normal ; font-size: 13px; display:block;)
+
+/desc [ㅤ](#" style=" color: #636250 !important;)[그 탄환을 토해낸 데릭의 총구가 밤의 가슴팍을 향해 있습니다.](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: bold; font-size: 13px; display:block;)
+
+/desc [ㅤ](#" style=" color: #636250 !important;)[밤은 탄환이 자신의 가슴팍을 꿰뚫자, 별다른 방도 없이 앞으로 고꾸라집니다.](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: bold; font-size: 13px; display:block;)
+
+/desc [ㅤ](#" style=" color: #636250 !important;)[밤 아래 눌린 데릭은 핏물에 푹 젖은 채 신음하며, 방아쇠에 올려둔 굳은 손가락을 경련과 함께 폅니다.](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: bold; font-size: 13px; display:block;)
+
+/desc […](#" style="text-decoration:none; color: #d3d2bd; background-color: #151515; font-size: 13px; text-align:center; display:block; line-height:1.3; padding:5px 25px 5px 25px; margin: -3% -10% -2% -10%;)
+
+/desc [그리고 사위가 밝아집니다.](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: normal ; font-size: 13px; display:block;)
+
+/desc [ㅤ](#" style=" color: #636250 !important;)[ 밤이 죽으면 늘 이렇게 주변이 환해졌습니다. 아침과 같이.](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: bold; font-size: 13px; display:block;)
+
+/desc [ㅤ](#" style=" color: #636250 !important;)[자빠져있던 데릭이 급히 총을 쥐고 일어납니다. 그리고 급히 고개를 숙입니다.](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: bold; font-size: 13px; display:block;)
+
+/desc ["…대장."](#" style="text-decoration:none; color: #d3d2bd; background-color: #151515; font-size: 13px; text-align:center; display:block; line-height:1.3; padding:5px 25px 5px 25px; margin: -3% -10% -2% -10%;)
+
+/desc [대장인 당신의 발 빠른 대처로 인명 피해를 줄였으니 망정이죠.](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: normal ; font-size: 13px; display:block;)
+
+/desc [ㅤ](#" style=" color: #636250 !important;)[만일 당신이 조금이라도 늦었더라면, 기민하게 대처하지 못했더라면, 아마 갓 들어온 신입 목은 이미 따인 직후고 주위 사냥꾼들은 팔 한 쪽씩 뜯겨 다시는 총을 들지 못했을 겁니다.](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: bold; font-size: 13px; display:block;)
+
+/desc [ㅤ](#" style=" color: #636250 !important;)[야단 정도면 가벼운 처사입니다.](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: bold; font-size: 13px; display:block;)
+
+/desc [ㅤ](#" style=" color: #636250 !important;)[당신의 무리가 밤의 사체를 들고 나를 준비를 합니다.](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: bold; font-size: 13px; display:block;)
+
+/desc [그때였습니다.](#" style="text-decoration:none; color: #d3d2bd; background-color: #151515; font-size: 13px; text-align:center; display:block; line-height:1.3; padding:5px 25px 5px 25px; margin: -3% -10% -2% -10%;)
+
+
+
+
+/desc [탐사자, *듣기*  판정. (0/1)](#" style="text-decoration:none; color: #d3d2bd; background-color: #151515; font-size: 13px; text-align:center; display:block; line-height:1.3; padding:5px 25px 5px 25px; margin: -3% -10% -2% -10%;)
+
+성공▶︎
+/desc [어딘가에서 우는 소리가 납니다. 꼭, 어디 막힌 곳에서 어린애가 칭얼대듯…](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: normal ; font-size: 13px; display:block;)
+
+/desc [ㅤ](#" style=" color: #636250 !important;)[밤의 사체를 들던 놈이 중얼거립니다.](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: bold; font-size: 13px; display:block;)
+
+/desc ["…어린애?"](#" style="text-decoration:none; color: #d3d2bd; background-color: #151515; font-size: 13px; text-align:center; display:block; line-height:1.3; padding:5px 25px 5px 25px; margin: -3% -10% -2% -10%;)
+
+/desc ["대장, 이놈 안에서 무슨 소리 들리지 않습니까?"](#" style="text-decoration:none; color: #d3d2bd; background-color: #151515; font-size: 13px; text-align:center; display:block; line-height:1.3; padding:5px 25px 5px 25px; margin: -3% -10% -2% -10%;)
+
+/desc ["배에서 뭔가 울리는 것 같은데…"](#" style="text-decoration:none; color: #d3d2bd; background-color: #151515; font-size: 13px; text-align:center; display:block; line-height:1.3; padding:5px 25px 5px 25px; margin: -3% -10% -2% -10%;)
+
+실패▶︎
+/desc [밤의 배 안에서 어떤 소리가 나는 것 같습니다. 어린 목소리가 꽉 막힌 곳에서 우는 것 같은 소리가요.](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: normal ; font-size: 13px; display:block;)
+
+
+
+
+배를 가를 시▶︎
+/desc [근육의 방향대로 밤의 배를 가르자, 그 안에는…](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: normal ; font-size: 13px; display:block;)
+
+/desc [마치 핏덩이 같은,](#" style="text-decoration:none; color: #d3d2bd; background-color: #151515; font-size: 13px; text-align:center; display:block; line-height:1.3; padding:5px 25px 5px 25px; margin: -3% -10% -2% -10%;)
+
+/desc [*어린아이* 가,](#" style="text-decoration:none; color: #d3d2bd; background-color: #151515; font-size: 13px; text-align:center; display:block; line-height:1.3; padding:5px 25px 5px 25px; margin: -3% -10% -2% -10%;)
+
+/desc [들어 있습니다.](#" style="text-decoration:none; color: #d3d2bd; background-color: #151515; font-size: 13px; text-align:center; display:block; line-height:1.3; padding:5px 25px 5px 25px; margin: -3% -10% -2% -10%;)
+
+/desc [탐사자, *이성*  판정. (0/1)](#" style="text-decoration:none; color: #d3d2bd; background-color: #151515; font-size: 13px; text-align:center; display:block; line-height:1.3; padding:5px 25px 5px 25px; margin: -3% -10% -2% -10%;)
+
+/desc [ㅤ](#" style=" color: #636250 !important;)[갓난아이로 보이는 아이가, 세상사 모른다는 듯이 잠든 채로 조용히 숨을 내쉽니다. 밤의 온갖 장기를 밀어제치고서 몸을 옹송그린 그는 평안해 보입니다.](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: bold; font-size: 13px; display:block;)
+
+
+
+
+아이가 살아있는지 조사할 시▶︎
+/desc [그는 당신이 살펴본 것처럼 잠들어있고, 분명히 살아있습니다.](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: normal ; font-size: 13px; display:block;)
+
+/desc [ㅤ](#" style=" color: #636250 !important;)[그의 심장은 당신 귓가에도 들릴 정도로 선명히, 그리고 조용히 뛰고 있고요.](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: bold; font-size: 13px; display:block;)
+
+/desc [ㅤ](#" style=" color: #636250 !important;)[밤의 피를 뒤집어썼으나 코나 입에는 피가 들어가지 않은 듯, 별문제 없이 호흡하고 있습니다.](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: bold; font-size: 13px; display:block;)
+
+아이를 깨워볼 시▶︎
+/desc […](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: normal ; font-size: 13px; display:block;)
+/desc [ㅤ](#" style=" color: #636250 !important;)[…](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: bold; font-size: 13px; display:block;)
+/desc [ㅤ](#" style=" color: #636250 !important;)[일어나지 않습니다. 좋은 꿈이라도 꾸는 듯 평온한 얼굴이네요.](#" style=" color: #636250 !important; text-decoration:none; text-align: left; font-style:normal; font-weight: bold; font-size: 13px; display:block;)
+
+
+
+혹은 어쩔 줄 몰라 하든 해는 남몰래 저물어가고, 무리도 조용히 불을 켜며 다시 밤이 오기 전에 발걸음을 재촉해 하산합니다. 밤에 숲이나 산에 머무르는 것만큼 위험한 일은 없으니까요.
+
+이후 그 아이와 당신 사이엔 많은 일이 벌어집니다. 당신이 원하든, 혹은 원하지 않든 간에 아이는 당신의 집 한구석을 차지하고, 식사 시간엔 조용히 의자 하나를 차지합니다. 
+
+어느 순간부터 당신의 짐은 2배, 3배로 늘어나며, 말의 앞자리는 더 이상 당신의 것이 아니게 됩니다. 그렇게 나누고 쪼개고 베풀고 아끼고 껴안은 끝에, 아이는 당신의 한 부분이 됩니다. 그렇게 되기까지 7년이라는 시간이 걸렸습니다.
